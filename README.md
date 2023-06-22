@@ -1,8 +1,4 @@
 # Hi there, I'm Pratik Tank! 👋
- /\_/\  
-( o.o )
- > ^ <
-
 
 Welcome to my GitHub profile! I'm a student and learning software development and i am also passionate about building innovative and impactful projects. 
 
